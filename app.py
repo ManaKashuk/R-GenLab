@@ -1,6 +1,4 @@
-conda create -c rdkit -n my-rdkit-env rdkit
-conda activate my-rdkit-env
-pip install rdkit-pypi
+pip install rdkit-pypi streamlit pandas
 import io
 import base64
 import streamlit as st
