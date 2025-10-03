@@ -1,4 +1,4 @@
-# NARIA.app — R‑Group Variant Generator (Demo)
+# R‑Group Variant Generator (Demo)
 
 Welcome to **R-GenLab**, a Streamlit-powered demo application under the **NARIA.app** brand. This tool enables chemists and researchers to generate molecular variants by attaching R-group substituents to a scaffold structure using SMARTS-based anchor points.
 
