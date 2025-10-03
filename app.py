@@ -1,4 +1,3 @@
-pip install rdkit-pypi streamlit pandas
 import io
 import base64
 import streamlit as st
@@ -6,6 +5,7 @@ import pandas as pd
 
 from rdkit import Chem
 from rdkit.Chem import Draw
+import streamlit as st
 
 st.set_page_config(page_title="NARIA.app — R-Group Variant Generator (Demo)", layout="wide")
 
