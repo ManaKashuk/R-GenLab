@@ -1,4 +1,4 @@
-pip install -r requirements.txt
+
 import io
 import base64
 import streamlit as st
