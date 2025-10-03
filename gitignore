@@ -1,0 +1,95 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Streamlit cache and logs
+.streamlit/
+logs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# RDKit temporary files
+*.rdkit
+
+# Python egg and distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Other IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variable files
+.env
+.env.*
+
+# Local data files
+*.smiles
+*.txt
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite
+
+# Images and generated media
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+
+# Requirements and lock files
+requirements.txt
+Pipfile
+Pipfile.lock
+poetry.lock
