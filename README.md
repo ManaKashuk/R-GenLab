@@ -28,3 +28,16 @@ Example inputs:
 
 ---
 
+# Clone the repository
+git clone https://github.com/ManaKashuk/R-GenLab.git
+cd R-GenLab
+
+# Create a virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # or venv\\Scripts\\activate on Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app.py
