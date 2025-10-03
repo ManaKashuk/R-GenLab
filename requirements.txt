@@ -1,3 +1,4 @@
-
-rdkit
+rdkit-pypi
+streamlit
+pandas
 Pillow
