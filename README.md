@@ -2,7 +2,7 @@
 
 **Author:** Mana Kashuk  
 **App Type:** Streamlit + RDKit  
-**Project:** NARIA.app — R-Group Variant Generator
+**Project:** R-Group Variant Generator
 
 ---
 
