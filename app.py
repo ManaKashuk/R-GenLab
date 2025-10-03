@@ -1,3 +1,4 @@
+pip install rdkit-pypi
 import io
 import base64
 import streamlit as st
