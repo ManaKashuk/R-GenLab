@@ -1,4 +1,0 @@
-streamlit
-rdkit-pypi
-pandas
-Pillow
